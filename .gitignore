@@ -1,0 +1,25 @@
+# --- Altium Auto-Generated Folders (Recursive) ---
+**/History/
+**/__Previews/
+**/Project\ Logs\ for*/
+**/Project\ Outputs\ for*/
+
+# --- Temporary & Lock Files (Recursive) ---
+**/*.~lock.*
+**/*.$$$
+**/*.bak
+**/*.tmp
+**/debug.log
+
+# --- Specific Tool Generated Files (Recursive) ---
+**/*.PrjPCBStructure
+**/*.SchDocPreview
+**/*.PcbDocPreview
+**/*.Dat
+**/*.TLT
+**/*.REP
+**/Status\ Report.txt
+
+# --- Workspace & Personal Layouts ---
+**/*.DsnWrk
+**/*.Desktop
